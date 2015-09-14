@@ -1,0 +1,1 @@
+This is a pokemon-based game just to test our Java proficiency.
